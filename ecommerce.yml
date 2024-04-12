@@ -1,6 +1,6 @@
 token:
-  expiration_time: 864
-  secret: iloveyeonjun!!hiImjiminIlikepuppy123123
+  expiration_time: 864000000
+  secret: my_token_240413_sat_ilovemolly!
 
 gateway:
   ip: 172.30.1.81
