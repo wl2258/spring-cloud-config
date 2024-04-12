@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_token_240413_sat_ilovemolly!
+  secret: my_token_240413_sat_ilovemolly!_2
 
 gateway:
   ip: 172.30.1.81
